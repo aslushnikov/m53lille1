@@ -57,9 +57,10 @@ TeXAux/
 *.xdy
 *.tdo
 
-#perso
+# perso fort gh-pages
 *.zip
 *.sublime*
-*.pdf
+*.tex
+*.ttikz
 Administratif
 Documents
