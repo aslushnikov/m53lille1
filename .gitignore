@@ -61,7 +61,8 @@ TeXAux/
 *.zip
 *.sublime*
 *.tex
-*.ttikz
+*.tikz
+*.sty
 Administratif
 Documents
 Olivier
